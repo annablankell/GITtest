@@ -5,3 +5,6 @@ Nu lägger jag till mer text, i main-branchen
 hej hej
 vad fint!
 
+if angelika = awesome {
+    console.log(great!)
+}
